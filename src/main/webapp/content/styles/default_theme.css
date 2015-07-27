@@ -1,0 +1,68 @@
+@font-face {
+	font-family: disco;
+	src: url('fonts/DISCO.ttf');
+}
+
+BODY {
+	/*background-color: #484646;  dark gray */
+	background-color: #A9A9A9;
+	/*font-family: Verdana, Geneva, sans-serif;*/
+	font-family: disco, sans-serif;
+	font-weight: bold;
+	font-style: italic;
+	/* color: #C79BA8; pink */
+	/* color: #DFA831;  gold */
+	color: black;
+}
+
+BODY > HEADER  {
+	background-color: black;
+	color: ghostwhite;
+}
+
+ARTICLE > H2 {
+}
+
+BODY > HEADER > NAV#siteNav {
+}
+
+NAV#siteNav > MENU.iconMenu {
+	/*border-style: solid;
+	border-color: blue;
+	border-width: 0;
+	border-top-width: 1px;*/
+}
+
+NAV#siteNav LI {
+	/*border-style: solid;
+	border-color: black;
+	border-top-width: 0px;
+	border-right-width: 1px;
+	border-left-width: 0px;*/
+}
+
+NAV#siteNav A {
+	color: inherit;
+	/*font-size: 20px;*/
+	font-size: 2em;
+	
+}
+
+NAV#siteNav LI:last-child {
+	/*border-right-width: 0;*/
+}
+
+MENU.iconMenu > LI.home SPAN.icon:before {
+    /*font-family: FontAwesome;
+    content: "\f015";
+    font-size: 100%;*/
+    
+    /* Contact f003 */
+    /* Gallery f03e  */
+    /* About f007 */
+}
+
+BODY > FOOTER {
+	/* border-style: dashed; */
+	/* border-color: black; */
+}

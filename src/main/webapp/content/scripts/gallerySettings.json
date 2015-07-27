@@ -1,0 +1,33 @@
+{
+  "galleryName": "first-gallery",
+  "galleryTitle": "Gallery",
+  "artist": "Shaunte Lauren",
+  "artistEmail": "shaunte@example.com",
+  "contents": [
+    {
+      "name": "first-flight",
+      "src": "images/first-flight.jpg",
+      "alt": "First Flight",
+      "caption": "First Flight"
+    },
+    {
+      "name": "horse-stitch",
+      "src": "images/horse-stitch.jpg",
+      "alt": "Horse Stitch",
+      "caption": "Horse Stitch"
+    },
+    {
+      "name": "red-and-gold-horses",
+      "src": "images/red-and-gold-horses.jpg",
+      "alt": "Red and Gold horses",
+      "caption": "Red and Gold horses"
+    },
+    {
+      "name": "seasons-crossing",
+      "src": "images/seasons-crossing.jpg",
+      "alt": "Seasons Crossing",
+      "caption": "Seasons Crossing"
+    }
+  ],
+  "carousel": true
+}
