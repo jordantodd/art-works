@@ -1,6 +1,6 @@
 @font-face {
 	font-family: disco;
-	src: url('fonts/DISCO.ttf');
+	src: url('/content/fonts/DISCO.ttf');
 }
 
 BODY {
